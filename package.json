@@ -21,17 +21,15 @@
     "node": ">=0.12.0"
   },
   "author": {
-    "name": "ACDR",
-    "email": "github@acdr.co",
-    "url": "https://github.com/ACDR"
+    "name": "bustedtheory"
   },
-  "homepage": "https://github.com/ACDR/homebridge-yamaha-avr#readme",
+  "homepage": "https://github.com/bustedtheory/homebridge-yamaha-avr#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ACDR/homebridge-yamaha-avr.git"
+    "url": "git+https://github.com/bustedtheory/homebridge-yamaha-avr.git"
   },
   "bugs": {
-    "url": "https://github.com/ACDR/homebridge-yamaha-avr/issues"
+    "url": "https://github.com/bustedtheory/homebridge-yamaha-avr/issues"
   },
   "keywords": [
     "homebridge-plugin",
